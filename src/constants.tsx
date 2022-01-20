@@ -7,8 +7,8 @@ export const COLORS = {
     700: "hsl(220deg, 5%, 40%)",
     900: "hsl(220deg, 3%, 20%)",
   },
-  primary: "hsl(340deg, 65%, 47%)",
-  secondary: "hsl(240deg, 60%, 63%)",
+  primary: "hsl(340deg, 26%, 42%)", // Pantone - Hawthorn Rose
+  secondary: "hsl(14deg, 44%, 67%)", // Pantone - Muted Clay
 };
 
 export const WEIGHTS = {
@@ -16,3 +16,5 @@ export const WEIGHTS = {
   medium: 600,
   bold: 800,
 };
+
+// https://www.thenordroom.com/pantone-color-year-2022-very-peri/
